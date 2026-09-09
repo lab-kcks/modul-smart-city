@@ -531,7 +531,133 @@ Prinsip utama yang perlu diingat adalah:
 
 ---
 
-## 19. Referensi
+# Sumber Data Kota Studi
+
+## 1. Jakarta
+
+### BPS
+- Provinsi DKI Jakarta Dalam Angka 2026  
+  https://jakarta.bps.go.id/id/publication/2026/02/27/6fbb5e306389718511827127/provinsi-dki-jakarta-dalam-angka-2026.html
+
+### Portal Data Pemerintah
+- Jakarta Satu Data  
+  https://satudata.jakarta.go.id/
+
+- Jakarta Smart City  
+  https://smartcity.jakarta.go.id/id/
+
+### Dokumen Perencanaan
+- Dokumen Publik Bappeda DKI Jakarta  
+  https://bappeda.jakarta.go.id/dokumen-publik
+
+- RKPD DKI Jakarta  
+  https://bappeda.jakarta.go.id/rkpd
+
+---
+
+## 2. Bandung
+
+### BPS
+- Kota Bandung Dalam Angka 2026  
+  https://bandungkota.bps.go.id/id/publication/2026/02/27/96f9bc1a83d1cdb6357f54f2/kota-bandung-dalam-angka-2026.html
+
+### Portal Data Pemerintah
+- Open Data Kota Bandung  
+  https://opendata.bandung.go.id/
+
+- Dataset Open Data Kota Bandung  
+  https://opendata.bandung.go.id/dataset
+
+### Dokumen Perencanaan
+- PPID Kota Bandung — Dokumen RPJMD dan RKPD  
+  https://ppid.bandung.go.id/informasi-publik
+
+---
+
+## 3. Semarang
+
+### BPS
+- Kota Semarang Dalam Angka 2026  
+  https://semarangkota.bps.go.id/id/publication/2026/02/27/71750baf865ab83355ad88e2/kota-semarang-dalam-angka-2026.html
+
+### Portal Data dan Informasi Pemerintah
+- PPID Kota Semarang  
+  https://ppid.semarangkota.go.id/
+
+- Dokumen Perencanaan Kota Semarang  
+  https://ppid.semarangkota.go.id/kategori/informasi-setiap-saat/informasi-terbuka-badan-publik/dokumen-perencanaan/
+
+### Dokumen Perencanaan
+- RPJMD Kota Semarang 2025–2029  
+  https://ppid.semarangkota.go.id/rencana-pembangunan-jangka-menengah-daerah-rpjmd-tahun-2025-2029-kota-semarang/
+
+- RKPD Kota Semarang  
+  https://ppid.semarangkota.go.id/rencana-kerja-pembangunan-daerah-rkpd-kota-semarang/
+
+---
+
+## 4. Yogyakarta
+
+### BPS
+- Kota Yogyakarta Dalam Angka 2026  
+  https://jogjakota.bps.go.id/id/publication/2026/02/27/59d960318da3438db4a83474/kota-yogyakarta-dalam-angka-2026.html
+
+### Portal Data Pemerintah
+- Satu Data Kota Yogyakarta  
+  https://satudata.jogjakota.go.id/
+
+- Dataset Kota Yogyakarta  
+  https://dataset.jogjakota.go.id/
+
+### Dokumen Perencanaan
+- Bappeda Kota Yogyakarta  
+  https://bappeda.jogjakota.go.id/
+
+- JDIH Kota Yogyakarta  
+  https://jdih.jogjakota.go.id/
+
+---
+
+## 5. Surabaya
+
+### BPS
+- Kota Surabaya Dalam Angka 2026  
+  https://surabayakota.bps.go.id/id/publication/2026/02/27/8475020f24b2d691bdd5ff02/kota-surabaya-dalam-angka-2026.html
+
+### Portal Data Pemerintah
+- Open Data Kota Surabaya  
+  https://opendata.surabaya.go.id/
+
+### Dokumen Perencanaan
+- Dokumen Jangka Menengah Bappeda Kota Surabaya  
+  https://bappeda.surabaya.go.id/dokumen/jangka-menengah
+
+- RKPD Kota Surabaya  
+  https://ppid.surabaya.go.id/rkpd
+
+---
+
+## 6. Malang
+
+### BPS
+- Kota Malang Dalam Angka 2026  
+  https://malangkota.bps.go.id/id/publication/2026/02/27/ee38eae8c3d260cd84bbbc22/kota-malang-dalam-angka-2026.html
+
+### Portal Data Pemerintah
+- Satu Data Kota Malang  
+  https://data.malangkota.go.id/
+
+- Data Sektoral Kota Malang  
+  https://satudata.malangkota.go.id/v2/publik/data/sektoral
+
+### Dokumen Perencanaan
+- Rencana Pembangunan Daerah Kota Malang  
+  https://malangkota.go.id/rencana-pembangunan-daerah/
+
+---
+
+
+## 20. Referensi
 
 1. International Telecommunication Union. (2023). *Recommendation ITU-T Y.4223: Common requirements and capabilities of smart cities and communities from IoT and ICT perspectives*.
 2. International Telecommunication Union. (2022). *Recommendation ITU-T Y.4903: Key performance indicators for smart sustainable cities to assess the achievement of the Sustainable Development Goals*.
