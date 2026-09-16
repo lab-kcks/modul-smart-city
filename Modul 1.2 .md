@@ -1,28 +1,28 @@
 # MODUL 1.2
 
-## Identifikasi dan Pendalaman Isu Berbasis Bukti
+# Identifikasi dan Pendalaman Isu Berbasis Bukti
 
 **Teknologi Smart City (ET234504)**
 **Praktikum 1 SKS — Semester 5**
-**Departemen Teknologi Informasi, ITS**
+**Departemen Teknologi Informasi, Institut Teknologi Sepuluh Nopember**
 
 ---
 
-# 1. Pendahuluan
+## 1. Pendahuluan
 
-Pada tahap identifikasi persoalan perkotaan, data diperlukan agar suatu pernyataan mengenai kondisi kota tidak hanya didasarkan pada pendapat atau asumsi. Namun, menemukan data saja belum cukup. Data perlu dipahami, dikaji konteksnya, dan dihubungkan dengan bukti lain sebelum dapat digunakan untuk menyatakan adanya suatu isu perkotaan.
+Pada tahap identifikasi persoalan perkotaan, data diperlukan agar suatu pernyataan mengenai kondisi kota tidak hanya didasarkan pada pendapat atau asumsi. Namun, menemukan data saja belum cukup.
 
-Sebuah angka statistik, berita, keluhan masyarakat, atau hasil pengamatan dapat menunjukkan adanya fenomena. Fenomena tersebut kemudian perlu dieksplorasi untuk mengetahui apa yang sebenarnya terjadi, siapa yang terdampak, di mana dan kapan persoalan terjadi, serta seberapa besar persoalan tersebut.
+Sebuah angka statistik, berita, keluhan masyarakat, hasil pengamatan, maupun laporan pemerintah dapat menunjukkan adanya suatu **fenomena**. Fenomena tersebut belum otomatis dapat disebut sebagai masalah. Mahasiswa perlu memahami konteksnya, menentukan ruang lingkupnya, mengidentifikasi pihak yang terdampak, serta memeriksa apakah bukti yang tersedia benar-benar mendukung pernyataan yang dibuat.
 
-Setelah itu, mahasiswa perlu melakukan validasi untuk memastikan bahwa pernyataan mengenai suatu persoalan benar-benar didukung oleh bukti yang relevan dan sumber yang dapat dipercaya.
+Dalam penalaran berbasis bukti, kualitas suatu pernyataan tidak hanya bergantung pada keberadaan data, tetapi juga pada hubungan antara **apa yang diklaim, bukti yang digunakan, dan alasan mengapa bukti tersebut mendukung klaim**. Kerangka Claim–Evidence–Reasoning (CER) banyak digunakan untuk membantu membangun penjelasan dan argumen berbasis bukti (McNeill & Krajcik, 2008; Sampson & Clark, 2008). Pendekatan tersebut juga terus dikembangkan dalam konteks literasi data dan pendidikan tinggi (Brownea et al., 2026; Novak & Treagust, 2026).
 
-Proses tersebut kemudian menghasilkan rumusan isu yang lebih spesifik dan dapat dipertanggungjawabkan.
+Karena itu, Modul 1.2 tidak berfokus pada kegiatan "mencari masalah sebanyak mungkin". Fokusnya adalah **memperjelas fenomena dan membangun isu yang dapat dipertanggungjawabkan berdasarkan bukti**.
 
-Modul ini menggunakan pendekatan identifikasi dan pendalaman isu berbasis bukti melalui empat tahapan:
+Proses tersebut dilakukan melalui empat tahap:
 
 **Observe → Explore → Validate → Frame**
 
-Keempat tahap tersebut membantu mahasiswa bergerak dari pengamatan awal terhadap suatu fenomena menuju perumusan isu yang memiliki konteks dan bukti yang memadai.
+Keempat tahap tersebut membantu mahasiswa bergerak dari pengamatan awal terhadap suatu fenomena menuju perumusan isu yang lebih spesifik, kontekstual, dan berbasis bukti.
 
 ---
 
@@ -33,13 +33,13 @@ Setelah mempelajari modul ini, mahasiswa diharapkan mampu:
 1. membedakan fakta, opini, gejala, dan isu;
 2. mengidentifikasi fenomena atau persoalan perkotaan yang layak ditelusuri;
 3. mengeksplorasi fenomena untuk memperoleh konteks persoalan yang lebih jelas;
-4. menggunakan pertanyaan 5W1H untuk memperdalam pemahaman terhadap suatu fenomena;
+4. menggunakan pertanyaan 5W1H sebagai alat bantu untuk memperdalam pemahaman terhadap suatu fenomena;
 5. mempersempit fenomena yang terlalu luas menjadi isu yang lebih spesifik;
 6. menilai relevansi dan kredibilitas sumber informasi;
 7. menghubungkan klaim dengan bukti dan sumber yang mendukungnya;
 8. melakukan validasi terhadap bukti yang digunakan untuk mendukung suatu isu;
 9. merumuskan isu dalam bentuk *problem statement* yang jelas dan berbasis bukti;
-10. menghasilkan isu kandidat yang dapat digunakan untuk tahap analisis berikutnya.
+10. menghasilkan isu kandidat yang dapat digunakan sebagai dasar analisis pada modul berikutnya.
 
 ---
 
@@ -53,33 +53,32 @@ Sebagai contoh:
 
 > Jumlah penduduk Kota X adalah 2.000.000 jiwa.
 
-Pernyataan tersebut merupakan fakta.
+Pernyataan tersebut merupakan fakta yang dapat diperiksa.
 
 Namun, jika seseorang mengatakan:
 
 > Kota X memiliki jumlah penduduk yang sangat tinggi.
 
-maka diperlukan pembanding atau konteks untuk menjelaskan apa yang dimaksud dengan "sangat tinggi".
+maka diperlukan konteks atau pembanding untuk menjelaskan apa yang dimaksud dengan "sangat tinggi".
 
 Pernyataan berikutnya:
 
 > Jumlah penduduk yang tinggi menyebabkan pelayanan publik Kota X buruk.
 
-merupakan klaim yang lebih kuat karena menyatakan adanya hubungan antara dua kondisi. Klaim tersebut membutuhkan bukti tambahan.
+merupakan klaim yang lebih kuat karena tidak hanya menyatakan kondisi, tetapi juga menyatakan hubungan antara dua kondisi. Klaim tersebut membutuhkan bukti tambahan.
 
-Oleh karena itu, proses identifikasi isu tidak cukup hanya dengan menemukan angka atau informasi.
+Dengan demikian, mahasiswa tidak cukup hanya menemukan angka. Mahasiswa perlu bertanya:
 
-Mahasiswa perlu bertanya:
-
-* Apa yang sebenarnya ditunjukkan oleh data?
-* Apakah kondisi tersebut menunjukkan fenomena tertentu?
+* Apa sebenarnya yang ditunjukkan oleh data?
+* Apakah data tersebut menunjukkan suatu fenomena?
 * Apakah fenomena tersebut terjadi secara berulang?
-* Apakah terdapat kelompok atau wilayah yang terdampak?
-* Seberapa besar persoalan tersebut?
-* Apakah terdapat kondisi yang seharusnya berbeda?
-* Bukti apa yang mendukung pernyataan tersebut?
+* Siapa atau wilayah mana yang terdampak?
+* Seberapa besar fenomena tersebut?
+* Dalam kondisi apa fenomena tersebut terjadi?
+* Apakah terdapat kondisi yang menjadi pembanding?
+* Bukti apa yang mendukung pernyataan yang ingin dibuat?
 
-Dengan demikian:
+Prinsip dasarnya adalah:
 
 > **Data merupakan titik awal untuk memahami kondisi, bukan kesimpulan bahwa suatu masalah telah ditemukan.**
 
@@ -87,83 +86,67 @@ Dengan demikian:
 
 # 4. Fakta, Gejala, Opini, dan Isu
 
-Sebelum mengidentifikasi isu, mahasiswa perlu memahami perbedaan antara fakta, gejala, opini, dan isu.
+Sebelum merumuskan isu, mahasiswa perlu membedakan beberapa jenis pernyataan.
 
 ## 4.1 Fakta
 
-Fakta adalah informasi atau pernyataan yang dapat diperiksa kebenarannya berdasarkan data atau sumber yang dapat dipercaya.
+Fakta adalah pernyataan yang dapat diperiksa berdasarkan data, pengamatan, atau sumber yang dapat dipercaya.
 
-### Contoh
+Contoh:
 
-> Tingkat pengangguran terbuka Kota X pada tahun 2025 sebesar 5,2%.
+> Tingkat Pengangguran Terbuka Kota X pada tahun 2025 sebesar 5,2%.
 
 Pernyataan tersebut dapat diperiksa melalui sumber data yang digunakan.
 
-### Ciri utama fakta
-
-* dapat diverifikasi;
-* memiliki sumber;
-* memiliki konteks;
-* dapat ditelusuri kembali.
-
 ---
 
-## 4.2 Gejala
+## 4.2 Gejala atau Fenomena
 
-Gejala adalah kondisi atau fenomena yang dapat menunjukkan adanya persoalan yang perlu ditelusuri lebih lanjut.
+Gejala merupakan kondisi yang terlihat atau teramati dan dapat menjadi titik awal untuk penyelidikan lebih lanjut.
 
-### Contoh
+Contoh:
 
-> Waktu tempuh kendaraan pada suatu koridor meningkat secara signifikan pada jam sibuk.
+> Waktu tempuh perjalanan pada salah satu koridor Kota X meningkat pada jam sibuk.
 
-Pernyataan tersebut menunjukkan suatu fenomena.
-
-Namun, pernyataan tersebut belum menjelaskan:
-
-* mengapa hal tersebut terjadi;
-* siapa yang paling terdampak;
-* apakah kondisi tersebut merupakan persoalan utama;
-* apa penyebabnya.
-
-Karena itu, gejala dapat digunakan sebagai titik awal eksplorasi.
+Pernyataan tersebut menunjukkan suatu fenomena. Namun, belum menjelaskan mengapa kondisi tersebut terjadi.
 
 ---
 
 ## 4.3 Opini
 
-Opini adalah pendapat atau penilaian yang belum cukup didukung bukti.
+Opini merupakan penilaian atau pendapat seseorang terhadap suatu kondisi.
 
-### Contoh
+Contoh:
 
-> Pelayanan transportasi publik di Kota X sangat buruk.
+> Transportasi publik Kota X sangat buruk.
 
-Kata **"sangat buruk"** merupakan penilaian. Agar dapat digunakan dalam identifikasi isu berbasis bukti, diperlukan indikator atau bukti yang dapat menjelaskan dasar penilaian tersebut.
+Pernyataan tersebut belum cukup jelas untuk digunakan sebagai isu penelitian karena belum diketahui:
 
-Opini tidak harus diabaikan. Opini dapat menjadi petunjuk untuk mencari bukti, tetapi tidak boleh langsung dianggap sebagai fakta.
+* apa yang dimaksud dengan "buruk";
+* siapa yang mengalami kondisi tersebut;
+* di mana kondisi tersebut terjadi;
+* kapan kondisi tersebut terjadi;
+* dan bukti apa yang mendukung penilaian tersebut.
+
+Opini tetap dapat berguna sebagai **petunjuk awal** untuk mencari fenomena. Namun, opini tidak otomatis menjadi bukti.
 
 ---
 
 ## 4.4 Isu
 
-Dalam konteks modul ini, isu merupakan persoalan perkotaan yang telah memiliki konteks dan bukti yang cukup untuk dirumuskan secara lebih spesifik dan dibawa ke tahap analisis berikutnya.
+Isu merupakan persoalan yang telah dipersempit sehingga memiliki konteks yang lebih jelas dan dapat didukung oleh bukti.
 
-### Contoh
+Contoh:
 
-> Gangguan akses transportasi publik pada kawasan tertentu menyebabkan keterbatasan mobilitas masyarakat pada periode tertentu.
+> Gangguan akses transportasi publik pada kawasan tertentu berkaitan dengan keterbatasan mobilitas masyarakat pada periode tertentu.
 
-Pernyataan tersebut lebih spesifik dibandingkan:
+Pernyataan tersebut lebih spesifik daripada:
 
-> Transportasi publik bermasalah.
+> Transportasi publik Kota X bermasalah.
 
-Isu yang baik dapat menunjukkan:
+Namun, hubungan antara gangguan akses dan keterbatasan mobilitas tetap harus didukung oleh bukti yang sesuai.
 
-* apa persoalannya;
-* di mana persoalan terjadi;
-* siapa yang terdampak;
-* kapan atau dalam kondisi apa persoalan terjadi;
-* bukti yang menunjukkan keberadaan persoalan.
-
-Namun, isu tersebut belum harus menjelaskan akar penyebabnya.
+Dengan demikian, isu yang baik bukan sekadar kalimat yang terdengar penting. Isu harus memiliki **ruang lingkup, konteks, dan dasar bukti yang dapat ditelusuri**.
 
 ---
 
@@ -172,104 +155,66 @@ Namun, isu tersebut belum harus menjelaskan akar penyebabnya.
 Identifikasi dan pendalaman isu dilakukan melalui empat tahap utama.
 
 ```text
-┌─────────────────────────────────────────────┐
-│ INFORMASI AWAL                              │
-│                                             │
-│ • Data statistik                            │
-│ • Hasil pengamatan                          │
-│ • Hasil Modul 1.1                           │
-│ • Dokumen pemerintah                        │
-│ • Berita                                    │
-│ • Publikasi ilmiah                          │
-│ • Sumber kredibel lainnya                   │
-└──────────────────────┬──────────────────────┘
-                       │
-                       ▼
-┌─────────────────────────────────────────────┐
-│ OBSERVE                                     │
-│ Mengamati Fenomena                          │
-│                                             │
-│ Apa yang terlihat?                          │
-└──────────────────────┬──────────────────────┘
-                       │
-                       ▼
-┌─────────────────────────────────────────────┐
-│ EXPLORE                                     │
-│ Mengeksplorasi Fenomena                     │
-│                                             │
-│ Apa sebenarnya yang terjadi?                │
-│ Siapa? Di mana? Kapan? Seberapa besar?      │
-└──────────────────────┬──────────────────────┘
-                       │
-                       ▼
-┌─────────────────────────────────────────────┐
-│ VALIDATE                                    │
-│ Memvalidasi Bukti                           │
-│                                             │
-│ Apakah klaim didukung bukti?                │
-│ Apakah sumbernya kredibel?                  │
-│ Apakah bukti relevan dan sesuai konteks?    │
-└──────────────────────┬──────────────────────┘
-                       │
-                       ▼
-                 ┌──────────────┐
-                 │  Bukti cukup?│
-                 └──────┬───────┘
-                        │
-                 ┌──────┴──────┐
-                 │             │
-               TIDAK          YA
-                 │             │
-                 │             ▼
-                 │   ┌──────────────────────┐
-                 │   │ FRAME                │
-                 │   │ Merumuskan Isu       │
-                 │   │                      │
-                 │   │ Problem Statement    │
-                 │   └──────────┬───────────┘
-                 │              │
-                 └──────►       ▼
-                      EXPLORE  ISU KANDIDAT
-
-┌───────────────────────────────┐
-│ ISU KANDIDAT                  │
-│                               │
-│ • Spesifik                    │
-│ • Berbukti                    │
-│ • Terverifikasi               │
-└───────────────────────────────┘
+INFORMASI AWAL
+      │
+      ▼
+ OBSERVE
+ Apa yang terlihat?
+      │
+      ▼
+ EXPLORE
+ Apa sebenarnya yang terjadi?
+ Siapa? Di mana? Kapan? Seberapa besar?
+      │
+      ▼
+ VALIDATE
+ Apakah pernyataan didukung bukti?
+ Apakah bukti relevan?
+ Apakah sumber dapat dipercaya?
+      │
+      ▼
+ Apakah bukti cukup?
+    /       \
+  Tidak      Ya
+   │          │
+   ▼          ▼
+EXPLORE     FRAME
+kembali     Rumuskan isu
+              │
+              ▼
+        ISU KANDIDAT
 ```
 
-Keempat tahap tersebut bukan sekadar urutan aktivitas, tetapi merupakan alur berpikir.
+Keempat tahap tersebut bukan sekadar urutan aktivitas. Masing-masing menjawab pertanyaan yang berbeda.
 
-Setiap tahap menjawab pertanyaan yang berbeda:
+| Tahap    | Pertanyaan utama                  | Hasil                        |
+| -------- | --------------------------------- | ---------------------------- |
+| Observe  | Apa yang terlihat?                | Fenomena awal                |
+| Explore  | Apa sebenarnya yang terjadi?      | Konteks dan ruang lingkup    |
+| Validate | Apakah pernyataan didukung bukti? | Dasar bukti yang tervalidasi |
+| Frame    | Bagaimana persoalan dirumuskan?   | *Problem statement*          |
 
-| Tahap        | Pertanyaan utama                           | Hasil                        |
-| ------------ | ------------------------------------------ | ---------------------------- |
-| **Observe**  | Apa yang terlihat?                         | Fenomena awal                |
-| **Explore**  | Apa sebenarnya yang terjadi?               | Konteks dan ruang lingkup    |
-| **Validate** | Apakah pernyataan tersebut didukung bukti? | Dasar bukti yang tervalidasi |
-| **Frame**    | Bagaimana persoalan tersebut dirumuskan?   | *Problem statement*          |
+Proses tersebut tidak selalu linear.
 
-Perlu diperhatikan bahwa proses ini tidak selalu linear.
-
-Jika pada tahap Validate ditemukan bahwa bukti belum cukup, mahasiswa perlu kembali ke tahap Explore untuk mencari informasi atau bukti tambahan.
+Jika pada tahap Validate ditemukan bahwa bukti belum cukup, mahasiswa perlu kembali ke Explore untuk mencari informasi tambahan atau memperbaiki pemahaman terhadap fenomena.
 
 Dengan demikian:
 
-**Explore → Validate → Explore → Validate → ...**
+**Explore → Validate → Explore → Validate**
 
-merupakan proses yang wajar sampai bukti yang tersedia cukup untuk merumuskan isu.
+merupakan proses yang wajar.
+
+Tujuannya bukan mempertahankan dugaan awal, tetapi menghasilkan pemahaman yang semakin kuat berdasarkan bukti.
 
 ---
 
 # 6. Observe — Mengamati Fenomena
 
-## 6.1 Tujuan
+## 6.1 Tujuan Observe
 
-Tahap Observe bertujuan menemukan fenomena atau kondisi yang menarik untuk ditelusuri lebih lanjut.
+Tahap Observe bertujuan menemukan fenomena atau kondisi yang layak ditelusuri lebih lanjut.
 
-### Pertanyaan utama
+Pertanyaan utama:
 
 > **Apa yang terlihat?**
 
@@ -297,9 +242,7 @@ Fenomena dapat ditemukan dari berbagai sumber, antara lain:
 
 Hasil Modul 1.1 dapat digunakan sebagai salah satu titik awal.
 
-Namun, indikator yang digunakan pada Modul 1.1 bukan batasan ruang isu.
-
-Mahasiswa dapat menemukan persoalan lain selama persoalan tersebut terjadi pada kota yang menjadi objek penelitian.
+Namun, indikator yang digunakan pada Modul 1.1 **bukan batasan ruang isu**. Mahasiswa dapat menemukan persoalan lain selama persoalan tersebut relevan dengan kota yang menjadi objek penelitian.
 
 ---
 
@@ -313,7 +256,7 @@ Pada tahap Observe, mahasiswa cukup mencatat:
 
 > **Fenomena:** peningkatan waktu tempuh pada koridor tertentu pada jam sibuk.
 
-Belum perlu menyimpulkan:
+Mahasiswa belum perlu menyimpulkan:
 
 > "Sistem transportasi Kota X bermasalah."
 
@@ -325,33 +268,37 @@ Kesimpulan tersebut membutuhkan eksplorasi lebih lanjut.
 
 Setelah fenomena ditemukan, mahasiswa perlu memahami konteksnya.
 
-Pertanyaan utama pada tahap ini adalah:
+Pertanyaan utamanya:
 
 > **Apa sebenarnya yang terjadi?**
 
-Eksplorasi dilakukan untuk mengubah fenomena yang masih umum menjadi persoalan yang lebih jelas.
+Eksplorasi bertujuan mengubah fenomena yang masih umum menjadi persoalan yang lebih jelas.
 
----
+Salah satu alat bantu yang dapat digunakan adalah **5W1H**.
 
-## 7.1 What — Apa yang terjadi?
+5W1H dalam modul ini diposisikan sebagai alat bantu untuk mengajukan pertanyaan dan memperjelas konteks, bukan sebagai teori ilmiah tersendiri.
+
+## 7.1 Memperjelas Fenomena dengan 5W1H
+
+### What — Apa yang terjadi?
 
 Identifikasi fenomena secara spesifik.
 
-### Contoh
+Contoh:
 
 > Terjadi peningkatan waktu tempuh perjalanan pada koridor tertentu.
 
-Hindari pernyataan yang terlalu luas seperti:
+Hindari pernyataan terlalu luas seperti:
 
 > Transportasi Kota X buruk.
 
 ---
 
-## 7.2 Who — Siapa yang terdampak?
+### Who — Siapa yang terdampak?
 
 Identifikasi kelompok yang mengalami atau berpotensi mengalami dampak.
 
-### Contoh
+Contoh:
 
 * pengguna kendaraan pribadi;
 * pengguna transportasi umum;
@@ -359,15 +306,15 @@ Identifikasi kelompok yang mengalami atau berpotensi mengalami dampak.
 * pelajar;
 * masyarakat di kawasan tertentu.
 
-Tidak semua isu harus memiliki satu kelompok terdampak yang sama. Yang penting adalah terdapat dasar untuk menjelaskan siapa yang terkait dengan persoalan tersebut.
+Tidak semua isu harus memiliki satu kelompok terdampak yang sama. Yang penting, terdapat dasar untuk menjelaskan siapa yang terkait dengan persoalan tersebut.
 
 ---
 
-## 7.3 Where — Di mana terjadi?
+### Where — Di mana terjadi?
 
 Tentukan konteks geografis.
 
-### Contoh
+Contoh:
 
 * seluruh kota;
 * kecamatan tertentu;
@@ -380,11 +327,11 @@ Lokasi membantu mempersempit isu yang terlalu luas.
 
 ---
 
-## 7.4 When — Kapan terjadi?
+### When — Kapan terjadi?
 
 Identifikasi dimensi waktu.
 
-### Pertanyaan yang dapat digunakan
+Pertanyaan yang dapat digunakan:
 
 * Apakah terjadi setiap hari?
 * Apakah terjadi pada jam tertentu?
@@ -396,7 +343,7 @@ Dimensi waktu penting untuk membedakan fenomena sesaat dengan persoalan yang ber
 
 ---
 
-## 7.5 How Much — Seberapa besar?
+### How Much — Seberapa besar?
 
 Identifikasi skala persoalan.
 
@@ -411,25 +358,27 @@ Skala dapat dinyatakan melalui:
 * durasi;
 * perubahan dari waktu ke waktu.
 
-### Contoh
+Contoh:
 
 > "Kemacetan terjadi."
 
-lebih lemah dibanding:
+lebih lemah dibandingkan:
 
 > "Kecepatan rata-rata kendaraan pada koridor X turun sebesar Y% pada periode jam sibuk."
 
+Pernyataan kedua lebih mudah diperiksa karena memiliki ukuran yang lebih jelas.
+
 ---
 
-## 7.6 Why Does It Matter? — Mengapa Perlu Diperhatikan?
+### Why Does It Matter? — Mengapa perlu diperhatikan?
 
 Pertanyaan ini membantu mahasiswa memahami relevansi fenomena.
 
-### Contoh
+Contoh:
 
-> Gangguan perjalanan menyebabkan peningkatan waktu tempuh pengguna jalan dan memengaruhi akses terhadap aktivitas ekonomi atau layanan publik.
+> Gangguan perjalanan menyebabkan peningkatan waktu tempuh pengguna jalan dan dapat memengaruhi akses terhadap aktivitas ekonomi atau layanan publik.
 
-Pernyataan tersebut tetap membutuhkan bukti apabila digunakan sebagai bagian dari *problem statement*.
+Pernyataan mengenai dampak tersebut tetap membutuhkan bukti apabila digunakan sebagai bagian dari *problem statement*.
 
 ---
 
@@ -437,54 +386,72 @@ Pernyataan tersebut tetap membutuhkan bukti apabila digunakan sebagai bagian dar
 
 Fenomena perkotaan sering kali terlalu luas untuk langsung dirumuskan menjadi isu.
 
-### Contoh
+Misalnya:
 
-> Transportasi publik Kota X
+> **Transportasi Publik Kota X**
 
-Topik tersebut dapat mencakup banyak dimensi:
+Topik tersebut dapat dilihat melalui beberapa dimensi:
 
 ```text
-Transportasi Publik
+Transportasi Publik Kota X
 │
 ├── Aksesibilitas
+│   ├── Jangkauan wilayah
+│   ├── Jarak menuju halte
+│   └── Konektivitas
+│
 ├── Ketersediaan
+│   ├── Rute
+│   ├── Armada
+│   └── Jam operasional
+│
 ├── Keterjangkauan
-├── Ketepatan waktu
-├── Kenyamanan
-└── Integrasi
+│   ├── Tarif
+│   └── Biaya perjalanan
+│
+└── Kualitas Layanan
+    ├── Ketepatan waktu
+    ├── Kenyamanan
+    └── Keamanan
 ```
 
-Issue Tree membantu mahasiswa mengidentifikasi bagian atau dimensi persoalan yang lebih spesifik.
+Pendekatan pemetaan atau *problem structuring* digunakan dalam penelitian untuk membantu mengurai persoalan yang kompleks menjadi struktur yang lebih dapat dipahami (Eden, 2004). Dalam konteks modul ini, Issue Tree digunakan secara sederhana untuk membantu mahasiswa menjawab:
 
-Misalnya setelah eksplorasi ditemukan bahwa bukti paling banyak berkaitan dengan aksesibilitas di kawasan pinggiran.
+> **"Bagian atau dimensi mana dari fenomena yang perlu ditelusuri lebih lanjut?"**
 
-Maka fokus dapat dipersempit menjadi:
+Misalnya, setelah eksplorasi ditemukan bahwa sebagian besar bukti berkaitan dengan akses transportasi publik di kawasan pinggiran.
+
+Fokus dapat dipersempit menjadi:
 
 > **Akses transportasi publik pada kawasan pinggiran Kota X.**
 
----
+### Fungsi Issue Tree
 
-## Fungsi Issue Tree
-
-Issue Tree digunakan untuk:
+Issue Tree dapat membantu mahasiswa:
 
 * memecah fenomena yang terlalu luas;
 * melihat berbagai dimensi persoalan;
 * menentukan ruang eksplorasi yang lebih spesifik;
-* membantu memilih fokus berdasarkan bukti yang tersedia.
+* memilih fokus berdasarkan bukti yang tersedia.
 
-## Batas penggunaan
+### Prinsip MECE
 
-Issue Tree pada Modul 1.2 bukan digunakan untuk menentukan akar penyebab.
+Dalam menyusun cabang, mahasiswa dapat menggunakan prinsip **MECE (Mutually Exclusive, Collectively Exhaustive)** sebagai panduan berpikir.
+
+* **Mutually Exclusive:** cabang yang dibuat sebaiknya tidak terlalu tumpang tindih.
+* **Collectively Exhaustive:** kumpulan cabang sebaiknya cukup mencakup ruang persoalan yang sedang dianalisis.
+
+MECE tidak perlu diperlakukan sebagai aturan absolut. Dalam masalah perkotaan yang kompleks, beberapa aspek memang dapat saling berhubungan. Tujuan utamanya adalah membantu mahasiswa membuat struktur berpikir yang jelas dan tidak berantakan.
+
+### Batas penggunaan Issue Tree
+
+Issue Tree pada Modul 1.2 **bukan digunakan untuk menentukan akar penyebab**.
 
 Perbedaannya:
 
-| Alat             | Pertanyaan                                                     |
-| ---------------- | -------------------------------------------------------------- |
-| **Issue Tree**   | Bagian atau dimensi apa saja dari isu yang perlu diperhatikan? |
-| **Fishbone/RCA** | Apa saja kemungkinan penyebab dari masalah tersebut?           |
+> **Issue Tree:** bagian atau dimensi apa dari fenomena yang perlu diperhatikan?
 
-Analisis akar masalah dilakukan pada tahap berikutnya.
+> **Fishbone/RCA:** apa saja kemungkinan penyebab dari masalah tersebut?
 
 ---
 
@@ -492,30 +459,28 @@ Analisis akar masalah dilakukan pada tahap berikutnya.
 
 Tahap Validate bertujuan memastikan bahwa pernyataan mengenai suatu persoalan memiliki dasar bukti yang memadai.
 
-### Pertanyaan utamanya
+Pertanyaan utamanya:
 
 > **Apakah kita benar-benar memiliki bukti untuk mengatakan hal tersebut?**
 
-Kerangka dasar yang digunakan adalah:
+Dalam penalaran ilmiah, sebuah klaim perlu didukung oleh bukti yang relevan dan memadai. Kerangka Claim–Evidence–Reasoning digunakan untuk menjelaskan bagaimana suatu pernyataan dihubungkan dengan bukti dan penalaran yang mendukungnya (McNeill & Krajcik, 2008; Sampson & Clark, 2008).
+
+Untuk kebutuhan praktikum ini, mahasiswa menggunakan tiga komponen utama:
 
 ```text
 CLAIM
-  │
-  ▼
 Apa yang ingin kita nyatakan?
-  │
-  ▼
+        │
+        ▼
 EVIDENCE
-  │
-  ▼
-Data/informasi apa yang mendukungnya?
-  │
-  ▼
+Apa yang menjadi dasar untuk mendukungnya?
+        │
+        ▼
 SOURCE
-  │
-  ▼
-Dari mana bukti tersebut diperoleh?
+Dari mana dasar tersebut diperoleh?
 ```
+
+Perlu diperhatikan bahwa dalam kerangka CER yang lebih lengkap, **reasoning** berfungsi menjelaskan mengapa evidence mendukung claim. Modul 1.2 menggunakan Claim–Evidence–Source sebagai bentuk operasional yang lebih sederhana untuk membantu mahasiswa menelusuri dasar pernyataannya.
 
 ---
 
@@ -523,41 +488,66 @@ Dari mana bukti tersebut diperoleh?
 
 ## 10.1 Claim
 
-*Claim* adalah pernyataan yang ingin disampaikan mengenai suatu fenomena.
+**Claim** adalah pernyataan atau kesimpulan yang ingin disampaikan mengenai suatu fenomena.
 
-### Contoh
+Contoh:
 
 > Genangan terjadi secara berulang pada kawasan X.
 
-*Claim* harus dapat diperiksa.
+Claim harus dapat diperiksa.
 
 ---
 
 ## 10.2 Evidence
 
-*Evidence* adalah data atau informasi yang digunakan untuk mendukung *claim*.
+**Evidence adalah dasar yang digunakan untuk menunjukkan bahwa suatu claim memiliki dukungan yang memadai.**
 
-### Contoh
+Evidence dapat berupa:
 
-> Data kejadian menunjukkan terdapat X kejadian genangan pada kawasan X dalam periode tertentu.
+* data statistik;
+* hasil pengukuran;
+* hasil observasi;
+* catatan kejadian;
+* hasil penelitian;
+* dokumen;
+* laporan;
+* atau informasi relevan lainnya.
 
-*Evidence* harus memiliki hubungan yang jelas dengan *claim*.
+Yang menentukan apakah sesuatu berfungsi sebagai evidence bukan sekadar keberadaannya sebagai informasi, tetapi **hubungannya dengan claim yang sedang diperiksa**.
+
+Contoh:
+
+**Claim:**
+
+> Genangan terjadi secara berulang pada kawasan X.
+
+**Evidence:**
+
+> Catatan kejadian menunjukkan adanya beberapa kejadian genangan pada kawasan X dalam periode tertentu.
+
+Evidence tersebut memiliki hubungan langsung dengan claim mengenai keberulangan kejadian.
+
+Dalam literatur CER, evidence perlu relevan terhadap claim dan cukup untuk memberikan dukungan yang memadai (McNeill & Krajcik, 2008). Penelitian terbaru mengenai literasi data juga menekankan pentingnya kemampuan mahasiswa menghubungkan data, claim, evidence, dan reasoning secara koheren (Brownea et al., 2026).
 
 ---
 
 ## 10.3 Source
 
-*Source* adalah sumber tempat *evidence* diperoleh.
+**Source** adalah sumber tempat evidence diperoleh.
 
-### Contoh
+Contoh:
 
-* laporan pemerintah;
-* data statistik;
-* publikasi ilmiah;
+* badan atau lembaga statistik;
+* pemerintah pusat;
+* pemerintah daerah;
+* kementerian atau dinas terkait;
+* jurnal ilmiah;
+* laporan penelitian;
 * laporan institusi;
-* berita kredibel.
+* organisasi profesional;
+* media kredibel.
 
-Mahasiswa harus mencatat sumber sehingga bukti dapat ditelusuri kembali.
+Mahasiswa harus mencatat sumber sehingga dasar pernyataan dapat ditelusuri kembali.
 
 ---
 
@@ -565,39 +555,39 @@ Mahasiswa harus mencatat sumber sehingga bukti dapat ditelusuri kembali.
 
 Kredibilitas suatu isu tidak hanya ditentukan oleh kredibilitas sumber.
 
-Kita juga harus memastikan:
+Mahasiswa juga harus memastikan:
 
 > **Apakah evidence benar-benar mendukung claim?**
 
-### Contoh
+Contoh:
 
 Sebuah laporan resmi menyatakan:
 
 > Terdapat 100 kejadian banjir dalam satu tahun.
 
-Data tersebut dapat mendukung *claim*:
+Data tersebut dapat mendukung claim:
 
 > Banjir terjadi sebanyak 100 kali dalam satu tahun.
 
-Namun, data tersebut belum otomatis mendukung *claim*:
+Namun, data tersebut belum otomatis mendukung claim:
 
 > Banjir terjadi karena kapasitas drainase tidak memadai.
 
-*Claim* kedua membutuhkan *evidence* mengenai hubungan antara banjir dan kapasitas drainase.
+Claim kedua menyatakan hubungan sebab-akibat. Karena itu, diperlukan evidence yang secara khusus memberikan dasar untuk hubungan tersebut.
 
-Karena itu:
+Dengan demikian:
 
 > **Sumber yang kredibel tidak otomatis membuat semua interpretasi yang dibuat dari sumber tersebut menjadi benar.**
+
+Mahasiswa perlu memeriksa bukan hanya **siapa yang menerbitkan informasi**, tetapi juga **apa sebenarnya yang dapat disimpulkan dari informasi tersebut**.
 
 ---
 
 # 12. Kredibilitas Sumber
 
-Tidak semua sumber memiliki kekuatan yang sama.
+Tidak semua sumber memiliki kekuatan yang sama untuk semua jenis klaim.
 
-Secara umum, sumber yang dapat dipertimbangkan antara lain:
-
-## Sumber resmi pemerintah
+## 12.1 Sumber Resmi Pemerintah
 
 Contoh:
 
@@ -607,7 +597,11 @@ Contoh:
 * dinas;
 * badan atau lembaga pemerintah terkait.
 
-## Publikasi ilmiah
+Sumber tersebut dapat sangat berguna untuk data administratif, statistik, kebijakan, dan kondisi wilayah yang berada dalam kewenangannya.
+
+---
+
+## 12.2 Publikasi Ilmiah
 
 Contoh:
 
@@ -616,25 +610,46 @@ Contoh:
 * laporan penelitian;
 * penelitian institusi akademik.
 
-## Laporan institusi
+Publikasi ilmiah dapat digunakan terutama untuk memperoleh temuan penelitian, metode, penjelasan fenomena, dan konteks teoritis.
+
+---
+
+## 12.3 Laporan Institusi
 
 Contoh:
 
 * laporan organisasi;
 * laporan lembaga penelitian;
-* laporan profesional.
+* laporan profesional;
+* laporan organisasi internasional.
 
-## Media kredibel
-
-Berita dapat digunakan untuk menunjukkan suatu peristiwa atau memperoleh informasi awal, terutama ketika data primer belum tersedia.
-
-Namun, untuk klaim penting, mahasiswa sebaiknya menelusuri sumber utama yang digunakan oleh media apabila tersedia.
+Kekuatan sumber perlu dilihat berdasarkan siapa penerbitnya, tujuan laporan, metodologi, dan kualitas data yang digunakan.
 
 ---
 
-# 13. Cara Menilai Kredibilitas Bukti
+## 12.4 Media Kredibel
 
-Beberapa pertanyaan yang perlu digunakan:
+Berita dapat digunakan untuk menunjukkan suatu peristiwa atau memperoleh informasi awal, terutama ketika data primer belum tersedia.
+
+Namun, untuk klaim penting, mahasiswa sebaiknya menelusuri **sumber utama yang digunakan oleh media**, apabila tersedia.
+
+Contohnya:
+
+> Berita menyebutkan adanya peningkatan jumlah banjir.
+
+Mahasiswa sebaiknya mencari apakah berita tersebut menggunakan:
+
+* data pemerintah;
+* laporan penelitian;
+* pernyataan pejabat;
+* hasil pengamatan;
+* atau sumber lain.
+
+---
+
+# 13. Cara Menilai Kredibilitas dan Relevansi Bukti
+
+Mahasiswa dapat menggunakan beberapa pertanyaan berikut ketika mengevaluasi sumber:
 
 ### 1. Siapa yang menerbitkan?
 
@@ -656,7 +671,7 @@ Keduanya perlu dicatat secara terpisah.
 
 ### 4. Di mana data berlaku?
 
-Pastikan data benar-benar berkaitan dengan kota atau wilayah yang diteliti.
+Pastikan data benar-benar berkaitan dengan kota atau wilayah yang sedang diteliti.
 
 ### 5. Apa definisi indikatornya?
 
@@ -666,9 +681,15 @@ Angka yang terlihat sama belum tentu mengukur hal yang sama.
 
 Jika metodologi tersedia, periksa bagaimana data dikumpulkan dan diukur.
 
-### 7. Apakah sumber lain mendukung?
+### 7. Apakah evidence relevan terhadap claim?
 
-Bukti dari sumber lain dapat digunakan untuk memperkuat atau menguji informasi.
+Ini merupakan pertanyaan yang sering terlewat.
+
+Sebuah sumber dapat sangat kredibel, tetapi evidence yang diambil dari sumber tersebut belum tentu relevan dengan claim yang dibuat.
+
+### 8. Apakah terdapat evidence lain yang mendukung atau bertentangan?
+
+Periksa sumber lain untuk memperkuat, menguji, atau bahkan membantah pemahaman awal.
 
 ---
 
@@ -676,27 +697,24 @@ Bukti dari sumber lain dapat digunakan untuk memperkuat atau menguji informasi.
 
 Untuk isu yang penting, satu sumber mungkin belum cukup.
 
-Triangulasi berarti menggunakan lebih dari satu sumber atau jenis bukti untuk memperoleh pemahaman yang lebih kuat mengenai suatu fenomena.
+**Triangulasi** berarti menggunakan lebih dari satu sumber atau jenis bukti untuk memperoleh pemahaman yang lebih kuat mengenai suatu fenomena.
 
-### Contoh
+Contoh:
 
-Statistik pemerintah menunjukkan peningkatan jumlah kejadian.
+1. Statistik pemerintah menunjukkan peningkatan jumlah kejadian.
+2. Dokumen pemerintah menunjukkan wilayah yang paling terdampak.
+3. Publikasi ilmiah memberikan konteks mengenai fenomena tersebut.
+4. Hasil observasi memberikan gambaran kondisi lapangan.
 
-Kemudian:
+Keempat informasi tersebut dapat memberikan pemahaman yang lebih kuat daripada hanya menggunakan satu artikel berita.
 
-> Dokumen pemerintah menunjukkan wilayah yang paling terdampak.
+Namun, mahasiswa harus berhati-hati:
 
-Kemudian:
+> **Dua sumber tidak selalu berarti dua evidence yang independen.**
 
-> Publikasi ilmiah menjelaskan konteks fenomena tersebut.
+Jika dua artikel berita ternyata sama-sama mengutip satu laporan pemerintah yang sama, maka informasi tersebut pada dasarnya masih berasal dari satu sumber utama.
 
-Ketiga informasi tersebut dapat memberikan gambaran yang lebih kuat daripada hanya menggunakan satu artikel berita.
-
-Namun, perlu diperhatikan:
-
-> **Dua sumber tidak selalu berarti dua bukti independen.**
-
-Jika dua artikel berita mengutip laporan pemerintah yang sama, informasi tersebut pada dasarnya masih berasal dari satu sumber utama.
+Triangulasi bukan kegiatan mengumpulkan sebanyak mungkin tautan. Tujuannya adalah memperoleh **dukungan yang lebih kuat dan perspektif yang saling melengkapi**.
 
 ---
 
@@ -704,7 +722,7 @@ Jika dua artikel berita mengutip laporan pemerintah yang sama, informasi tersebu
 
 Validasi tidak selalu menghasilkan keputusan "benar" atau "salah".
 
-Terdapat kemungkinan bahwa bukti yang ditemukan:
+Bukti yang ditemukan dapat:
 
 * cukup kuat;
 * sebagian mendukung;
@@ -715,19 +733,26 @@ Terdapat kemungkinan bahwa bukti yang ditemukan:
 Jika bukti belum cukup, mahasiswa perlu kembali ke tahap Explore.
 
 ```text
-Explore
+EXPLORE
    │
    ▼
-Validate
+VALIDATE
    │
-   ├── Bukti belum cukup ──► Explore kembali
+   ├── Bukti belum cukup ──► EXPLORE kembali
    │
-   └── Bukti cukup ─────────► Frame
+   └── Bukti cukup ────────► FRAME
 ```
 
-Hal ini penting karena mahasiswa tidak dipaksa mempertahankan hipotesis awal.
+Hal ini penting karena mahasiswa **tidak dipaksa mempertahankan dugaan awal**.
 
-Jika bukti tidak mendukung dugaan awal, kandidat isu dapat diperbaiki atau bahkan ditinggalkan.
+Jika bukti tidak mendukung dugaan awal, kandidat isu dapat:
+
+* diperbaiki;
+* dipersempit;
+* dirumuskan ulang;
+* atau ditinggalkan.
+
+Dalam proses berbasis bukti, perubahan kesimpulan setelah memperoleh informasi baru bukan merupakan kegagalan. Justru perubahan tersebut menunjukkan bahwa proses berpikir mengikuti evidence, bukan sebaliknya.
 
 ---
 
@@ -735,262 +760,131 @@ Jika bukti tidak mendukung dugaan awal, kandidat isu dapat diperbaiki atau bahka
 
 Setelah fenomena dieksplorasi dan bukti divalidasi, mahasiswa dapat merumuskan isu.
 
-### Pertanyaan utama
+Tahap ini disebut **Frame** karena mahasiswa menentukan bagaimana persoalan akan dibatasi dan dinyatakan.
 
-> **Bagaimana persoalan tersebut dapat dinyatakan secara spesifik dan dapat dipertanggungjawabkan?**
-
-Pada tahap ini digunakan *Problem Statement Framework*.
+Problem statement berfungsi untuk mendefinisikan area persoalan sekaligus memberikan batas agar persoalan dapat dianalisis secara layak. Dalam penelitian berbasis desain, perumusan problem statement digunakan untuk memperjelas dan membatasi persoalan sebelum proses berikutnya dilakukan (Easterday et al., 2018). Penelitian yang lebih baru juga menunjukkan bahwa perumusan problem statement dapat membantu memberikan arah dan batas yang lebih jelas pada proses analisis terhadap persoalan kompleks (2025).
 
 ---
 
-# 17. Problem Statement Framework
+# 17. Karakteristik Problem Statement yang Baik
 
-*Problem statement* digunakan untuk menyusun pernyataan persoalan berdasarkan hasil eksplorasi dan validasi.
+Problem statement yang baik sebaiknya menunjukkan:
 
-Struktur sederhana yang digunakan adalah:
+* **apa** persoalannya;
+* **di mana** persoalan terjadi;
+* **siapa** yang terdampak;
+* **kapan atau dalam kondisi apa** persoalan terjadi;
+* **seberapa besar** persoalan jika datanya tersedia;
+* **bukti apa** yang menunjukkan keberadaan persoalan.
 
-> **Fenomena/persoalan spesifik + konteks lokasi/kelompok + bukti utama + konsekuensi yang teramati.**
+Contoh:
 
-Struktur tersebut tidak harus selalu ditulis dalam satu kalimat dengan pola yang kaku. Yang penting, rumusan isu memiliki informasi yang cukup untuk menjelaskan persoalan secara jelas.
+> Gangguan akses transportasi publik pada kawasan pinggiran Kota X menyebabkan sebagian pengguna mengalami keterbatasan mobilitas pada periode tertentu.
 
----
+Pernyataan tersebut lebih spesifik daripada:
 
-# 18. Contoh Perumusan Problem Statement
+> Transportasi publik Kota X bermasalah.
 
-## Level 1 — Terlalu umum
-
-> Kemacetan di Kota X.
-
-### Masalah:
-
-* tidak jelas lokasi;
-* tidak jelas waktu;
-* tidak jelas skala;
-* tidak menunjukkan kelompok terdampak;
-* tidak menunjukkan bukti.
+Namun, hubungan antara gangguan akses dan keterbatasan mobilitas tetap harus didukung evidence yang sesuai.
 
 ---
 
-## Level 2 — Lebih spesifik
+# 18. Problem Statement Bukan Root Cause
 
-> Kemacetan berulang terjadi pada koridor X Kota Y pada periode jam sibuk.
+Contoh pernyataan yang terlalu jauh:
 
-Rumusan sudah lebih jelas, tetapi masih membutuhkan bukti yang menunjukkan frekuensi atau tingkat kemacetan.
+> Akses transportasi publik rendah karena pemerintah tidak efektif dalam merencanakan jaringan transportasi.
 
----
+Pernyataan tersebut sudah mengandung klaim mengenai penyebab.
 
-## Level 3 — Berbasis bukti
+Penyebab tersebut belum boleh dianggap benar hanya karena terdengar logis.
 
-> Kemacetan berulang pada koridor X Kota Y menyebabkan peningkatan waktu tempuh pengguna jalan pada periode jam sibuk, yang ditunjukkan oleh penurunan kecepatan rata-rata kendaraan pada periode tersebut.
+Dengan demikian, Modul 1.2 berfokus pada:
 
-Rumusan ini memiliki:
-
-* fenomena;
-* lokasi;
-* waktu;
-* dampak;
-* bukti yang dapat ditelusuri.
+> **Apa persoalannya dan bagaimana persoalan tersebut dapat dibuktikan?**
 
 ---
 
-# 19. Hal yang Tidak Boleh Dilakukan pada Problem Statement
+# 19. Problem Statement Bukan Solusi
 
-## 19.1 Jangan langsung menyimpulkan akar penyebab
+Kesalahan lain yang sering terjadi adalah langsung memasukkan solusi ke dalam rumusan masalah.
 
-### Contoh
+Contoh:
 
-> Kemacetan terjadi karena buruknya pengaturan lampu lalu lintas.
+> Kota X membutuhkan aplikasi transportasi publik untuk meningkatkan akses masyarakat.
 
-Jika hubungan tersebut belum dianalisis, pernyataan tersebut terlalu cepat menyimpulkan penyebab.
+Pernyataan tersebut sudah mengasumsikan solusi sebelum persoalannya dipahami secara memadai.
 
----
+Pada Modul 1.2, mahasiswa belum diminta menentukan teknologi atau solusi.
 
-## 19.2 Jangan langsung menawarkan solusi
+Rumusan sebaiknya terlebih dahulu menjelaskan persoalannya.
 
-### Contoh
+Contoh:
 
-> Kota X membutuhkan sistem AI untuk mengatur lampu lalu lintas.
+> Akses transportasi publik pada kawasan pinggiran Kota X masih terbatas pada periode tertentu sehingga sebagian masyarakat mengalami kesulitan mencapai layanan dan aktivitas tertentu.
 
-Pernyataan tersebut sudah masuk ke solusi.
-
-Pada tahap identifikasi isu, mahasiswa harus terlebih dahulu memahami:
-
-> **Apa persoalannya?**
-
-bukan:
-
-> **Teknologi apa yang harus dibuat?**
+Setelah persoalan dan akar penyebab dipahami pada tahap berikutnya, barulah alternatif intervensi dapat dipertimbangkan.
 
 ---
 
-## 19.3 Jangan menggunakan istilah penilaian tanpa bukti
+# 20. Kriteria Isu Kandidat
 
-### Contoh
-
-> Pelayanan transportasi publik sangat buruk.
-
-Istilah seperti **"sangat buruk"**, **"parah"**, atau **"tidak efektif"** membutuhkan indikator atau bukti yang jelas.
-
----
-
-# 20. Pendalaman Isu
-
-Pendalaman isu dilakukan terutama melalui tahap Explore dan Validate.
-
-Tujuannya adalah memperoleh pemahaman yang lebih lengkap mengenai persoalan.
-
-Beberapa dimensi yang dapat digunakan adalah:
-
----
-
-## 20.1 Skala
-
-### Pertanyaan
-
-> Seberapa besar persoalan?
-
-### Contoh
-
-* jumlah orang terdampak;
-* jumlah kejadian;
-* persentase;
-* luas wilayah;
-* nilai kerugian.
-
----
-
-## 20.2 Lokasi
-
-### Pertanyaan
-
-> Di mana persoalan paling terlihat?
-
-Persoalan yang awalnya terlihat sebagai masalah seluruh kota dapat ternyata terkonsentrasi pada beberapa wilayah.
-
----
-
-## 20.3 Waktu dan Tren
-
-Apakah persoalan:
-
-* meningkat;
-* menurun;
-* stabil;
-* musiman;
-* berulang;
-* terjadi pada waktu tertentu?
-
----
-
-## 20.4 Kelompok Terdampak
-
-### Pertanyaan
-
-> Siapa yang mengalami dampak?
-
-Kelompok terdampak dapat membantu memperjelas karakter isu.
-
----
-
-## 20.5 Dampak
-
-### Pertanyaan
-
-> Apa konsekuensi yang dapat dibuktikan?
-
-### Contoh
-
-* gangguan mobilitas;
-* peningkatan biaya;
-* gangguan akses layanan;
-* kerugian ekonomi;
-* dampak lingkungan;
-* gangguan aktivitas masyarakat.
-
-Dampak harus dibedakan dari dugaan dampak.
-
----
-
-## 20.6 Konteks Kebijakan
-
-Jika relevan, mahasiswa dapat melihat:
-
-* target pemerintah;
-* standar pelayanan;
-* kebijakan;
-* program;
-* rencana pembangunan;
-* indikator kinerja.
-
-Konteks tersebut dapat membantu memahami apakah kondisi aktual memiliki kesenjangan dengan kondisi yang diharapkan.
-
----
-
-# 21. Kriteria Isu yang Baik
-
-Sebuah isu kandidat sebaiknya memenuhi beberapa karakteristik.
+Isu kandidat yang dihasilkan pada akhir Modul 1.2 sebaiknya memenuhi beberapa karakteristik:
 
 ### 1. Spesifik
 
-Tidak berhenti pada kategori umum.
+Tidak terlalu luas sehingga dapat dianalisis.
 
-### 2. Berbasis bukti
+### 2. Kontekstual
 
-Memiliki bukti yang mendukung keberadaan persoalan.
+Memiliki konteks lokasi, waktu, kelompok terdampak, atau kondisi tertentu.
 
-### 3. Memiliki konteks
+### 3. Berbasis bukti
 
-Lokasi, kelompok, periode, atau karakteristik relevan dapat dijelaskan.
+Terdapat evidence yang relevan untuk mendukung pernyataan.
 
 ### 4. Dapat ditelusuri
 
-Sumber dan data dapat diperiksa kembali.
+Sumber evidence dapat ditemukan kembali.
 
-### 5. Relevan dengan kota
+### 5. Tidak melompat ke akar penyebab
 
-Persoalan benar-benar terjadi pada kota yang menjadi objek penelitian.
+Isu tidak langsung mengklaim penyebab yang belum dianalisis.
 
-### 6. Belum menyimpulkan akar masalah
+### 6. Tidak langsung menawarkan solusi
 
-Akar masalah belum ditetapkan pada tahap ini.
+Isu menjelaskan persoalan, bukan teknologi yang ingin dibuat.
+---
 
-### 7. Belum menentukan prioritas
+# 21. Kesalahan Umum dalam Identifikasi Isu
 
-Isu kandidat belum dinyatakan sebagai isu paling penting.
+## Kesalahan 1 — Menganggap semua data sebagai masalah
 
-### 8. Dapat dianalisis lebih lanjut
+> "Jumlah penduduk Kota X tinggi, berarti ini masalah."
 
-Isu memiliki informasi yang cukup untuk dibawa ke tahap analisis berikutnya.
+**Perbaikan:** cari konteks dan konsekuensi yang dapat dibuktikan.
 
 ---
 
-# 22. Kesalahan Umum dalam Identifikasi Isu
+## Kesalahan 2 — Menggunakan kata yang terlalu subjektif
 
-## Kesalahan 1 — Menganggap indikator sebagai masalah
+> "Pelayanan publik sangat buruk."
 
-> TPT tinggi → masalah pengangguran.
-
-Indikator merupakan data mengenai kondisi. Mahasiswa masih perlu melihat konteks dan bukti.
+**Perbaikan:** jelaskan indikator atau kondisi yang menunjukkan buruknya pelayanan tersebut.
 
 ---
 
-## Kesalahan 2 — Menganggap semua berita sebagai bukti
+## Kesalahan 3 — Menggunakan satu data untuk mendukung terlalu banyak kesimpulan
 
-Berita dapat menjadi sumber informasi, tetapi klaim penting perlu ditelusuri dan diverifikasi.
+> Data jumlah banjir digunakan untuk menyimpulkan bahwa drainase buruk, masyarakat tidak disiplin, dan pemerintah tidak efektif.
 
----
-
-## Kesalahan 3 — Menggunakan opini sebagai fakta
-
-> "Masyarakat merasa transportasi sangat buruk."
-
-Pernyataan tersebut dapat digunakan sebagai data persepsi jika metodologi dan sumbernya jelas, tetapi tidak otomatis menjadi fakta mengenai kualitas layanan.
+**Perbaikan:** setiap claim harus memiliki evidence yang relevan.
 
 ---
 
-## Kesalahan 4 — Menggunakan sumber yang tidak sesuai
+## Kesalahan 4 — Menganggap sumber kredibel berarti semua interpretasinya benar
 
-Contohnya menggunakan data tingkat provinsi untuk menyimpulkan kondisi satu kota tanpa dasar yang memadai.
+Sumber resmi tetap harus dibaca sesuai konteks dan definisi datanya.
 
 ---
 
@@ -1000,7 +894,7 @@ Data lama belum tentu tidak berguna, tetapi mahasiswa harus mengetahui periode d
 
 ---
 
-## Kesalahan 6 — Menggabungkan data yang definisinya berbeda
+## Kesalahan 6 — Menggabungkan data dengan definisi berbeda
 
 Dua angka tidak dapat dibandingkan hanya karena memiliki satuan yang sama.
 
@@ -1037,80 +931,91 @@ Pernyataan tersebut sudah merupakan klaim mengenai penyebab dan membutuhkan anal
 
 ---
 
-# 23. Ringkasan Kerangka Berpikir
+# 22. Dari Fenomena Menjadi Isu Kandidat
 
-Identifikasi isu berbasis bukti dapat diringkas menjadi:
+Secara keseluruhan, mahasiswa dapat memahami proses Modul 1.2 sebagai perubahan bertahap:
 
 ```text
+FENOMENA
+"Ada sesuatu yang terlihat."
+        │
+        ▼
 OBSERVE
 Apa yang terlihat?
-      │
-      ▼
+        │
+        ▼
 EXPLORE
 Apa sebenarnya yang terjadi?
-      │
-      ▼
+        │
+        ├── What
+        ├── Who
+        ├── Where
+        ├── When
+        ├── How Much
+        └── Why Does It Matter?
+        │
+        ▼
+PERSEMPIT RUANG ISU
+Issue Tree (opsional)
+        │
+        ▼
 VALIDATE
-Apa bukti yang mendukungnya?
-      │
-      ▼
-Apakah bukti cukup?
-      │
-      ├───────────────┐
-     Tidak            Ya
-      │                │
-      └──► EXPLORE     │
-                       ▼
-                     FRAME
-                       │
-                       ▼
-             Bagaimana persoalan
-             dirumuskan secara
-                 spesifik?
-                       │
-                       ▼
-                 ISU KANDIDAT
+Apakah claim didukung
+evidence yang relevan?
+        │
+        ├── Tidak cukup → Explore kembali
+        │
+        ▼
+FRAME
+Bagaimana persoalan
+dirumuskan secara spesifik?
+        │
+        ▼
+ISU KANDIDAT
 ```
 
-### Observe
-
-Mengidentifikasi fenomena.
-
-### Explore
-
-Memahami konteks dan mempersempit ruang lingkup.
-
-### Validate
-
-Memeriksa apakah klaim benar-benar didukung bukti yang relevan dan kredibel.
-
-### Frame
-
-Merumuskan persoalan dalam bentuk *problem statement*.
-
-Inti dari proses tersebut adalah:
+Inti proses tersebut adalah:
 
 > **Jangan langsung mengubah pengamatan menjadi kesimpulan.**
 
 Gunakan proses:
 
-**Amati → eksplorasi → periksa bukti → rumuskan.**
+> **Amati → eksplorasi → periksa bukti → rumuskan.**
 
 ---
 
-# 24. Prinsip Utama Modul
+# 23. Ringkasan Kerangka Berpikir
 
-Beberapa prinsip yang perlu diingat:
+Identifikasi isu berbasis bukti dapat diringkas menjadi:
 
-1. Data bukan otomatis masalah.
-2. Fenomena adalah titik awal, bukan kesimpulan.
-3. Opini dapat menjadi petunjuk, tetapi bukan otomatis bukti.
-4. Klaim harus memiliki bukti yang relevan.
-5. Sumber kredibel tetap harus digunakan secara tepat.
-6. Bukti yang tidak cukup berarti perlu kembali mengeksplorasi.
-7. Isu harus dirumuskan secara spesifik.
-8. *Problem statement* tidak boleh melompat langsung ke akar penyebab.
-9. *Problem statement* tidak boleh langsung menawarkan solusi teknologi.
-10. Isu kandidat belum berarti isu prioritas.
+| Tahap          | Fokus                     | Pertanyaan                                                                   |
+| -------------- | ------------------------- | ---------------------------------------------------------------------------- |
+| **Observe**    | Mengidentifikasi fenomena | Apa yang terlihat?                                                           |
+| **Explore**    | Memahami konteks          | Apa sebenarnya yang terjadi?                                                 |
+| **Issue Tree** | Mempersempit ruang isu    | Bagian mana yang perlu ditelusuri?                                           |
+| **Validate**   | Memeriksa evidence        | Apakah claim didukung evidence yang relevan dan sumber yang dapat dipercaya? |
+| **Frame**      | Merumuskan persoalan      | Bagaimana persoalan dirumuskan secara spesifik?                              |
+| **Output**     | Isu kandidat              | Apakah isu cukup jelas untuk dianalisis pada tahap berikutnya?               |
 
-Pada akhirnya, kualitas sebuah isu tidak ditentukan oleh seberapa menarik judulnya, tetapi oleh seberapa jelas persoalannya dan seberapa kuat bukti yang mendukung pernyataan tersebut.
+Sebuah isu yang baik bukan isu yang memiliki judul paling menarik atau paling besar skalanya.
+
+Isu yang baik adalah isu yang:
+
+> **jelas persoalannya, jelas konteksnya, dapat ditelusuri, dan memiliki evidence yang cukup untuk mendukung pernyataannya.**
+---
+
+# Daftar Pustaka
+
+Brownea, K. M., Drewes, A., Smalley, G., & Lichtenwalner, S. (2026). Data Description, Claim, Evidence, Reasoning (DCER): An instructional framework to develop undergraduates’ data literacy skills and scientific reasoning. *Journal of College Science Teaching, 55*(3), 235–250. https://doi.org/10.1080/0047231X.2026.2633359
+
+Easterday, M. W., Lewis, D. G. R., & Gerber, E. M. (2018). The logic of design research. *Learning: Research and Practice, 4*(2), 131–160. https://doi.org/10.1080/23735082.2017.1286367
+
+Eden, C. (2004). Analyzing cognitive maps to help structure issues or problems. *European Journal of Operational Research, 159*(3), 673–686. https://doi.org/10.1016/S0377-2217(03)00431-4
+
+McNeill, K. L., & Krajcik, J. (2008). Inquiry and scientific explanations: Helping students use evidence and reasoning. In J. Luft, R. Bell, & J. Gess-Newsome (Eds.), *Science as Inquiry in the Secondary Setting*. NSTA Press.
+
+Novak, A. M., & Treagust, D. F. (2026). Developing deep knowledge by connecting scientific ideas with data through reasoning to support claims. *Disciplinary and Interdisciplinary Science Education Research, 8*, 20.
+
+Sampson, V., & Clark, D. B. (2008). Assessment of the ways students generate arguments in science education: Current perspectives and recommendations for future directions. *Science Education, 92*(3), 447–472. https://doi.org/10.1002/sce.20276
+
+Toulmin, S. E. (1958). *The Uses of Argument*. Cambridge University Press.
