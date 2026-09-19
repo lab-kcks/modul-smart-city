@@ -384,7 +384,7 @@ Pernyataan mengenai dampak tersebut tetap membutuhkan bukti apabila digunakan se
 
 # 8. Issue Tree sebagai Alat Mempersempit Isu
 
-<img width="1751" height="1284" alt="Flowchart (2)" src="https://github.com/user-attachments/assets/120ef6b6-0d36-43dd-8469-62cbaaf36e28" />
+<img width="1550" height="1451" alt="Flowchart (3)" src="https://github.com/user-attachments/assets/3a8fd985-bd3a-4741-a64f-6d96a4db7025" />
 
 Fenomena perkotaan sering kali terlalu luas untuk langsung dirumuskan menjadi isu.
 
