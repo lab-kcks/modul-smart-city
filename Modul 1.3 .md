@@ -543,12 +543,7 @@ Berikut adalah hubungan antar-modul dari Modul 1.1 hingga 1.3:
 │ - Memahami kedalaman isu secara sistemik                    │
 │ - Memetakan faktor penyebab & menemukan akar masalah        │
 └──────────────────────────────┬──────────────────────────────┘
-                               │
-                               ▼
-┌─────────────────────────────────────────────────────────────┐
-│ MODUL BERIKUTNYA — Perancangan Solusi Smart City            │
-│ - Merancang solusi yang menyelesaikan akar masalah          │
-└─────────────────────────────────────────────────────────────┘
+                              
 ```
 
 ---
