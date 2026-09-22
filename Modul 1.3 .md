@@ -438,7 +438,7 @@ AKAR MASALAH (root cause)
 
 ### 9.1 Contoh Penerapan
 
-Sebagai contoh penelusuran kausalitas, kita ambil data riil **Isu Kandidat 2 Kota Surabaya** dari lembar kerja Kelompok 7 (Isu Ketahanan Drainase & RTH):  
+Sebagai contoh penelusuran kausalitas, kita ambil data **Isu Kandidat 2 Kota Surabaya** dari salah satu kelompok kota surabaya yang membahas (Isu Ketahanan Drainase & RTH):  
 > *"Genangan air lambat surut di koridor jalan dan permukiman Tenggilis serta Tanjungsari Kota Surabaya setelah hujan lebat (tercatat 7 titik genangan pada 5 November 2025 oleh DSDABM)."*
 
 Berikut penurunan kausalitas 5 Whys pada kategori **Process (Alur Kerja & Operasional)**:
@@ -555,7 +555,7 @@ Berikut adalah hubungan antar-modul dari Modul 1.1 hingga 1.3:
 
 ## 12. Contoh Terapan: Kota Surabaya
 
-Berikut adalah contoh lengkap penerapan APKL, USG, dan Fishbone menggunakan data riil Kota Surabaya yang telah dikumpulkan dan divalidasi pada Modul 1.1 dan Modul 1.2 (bersumber dari lembar kerja *Smart City Kelompok 7 — Surabaya*).
+Berikut adalah contoh lengkap penerapan APKL, USG, dan Fishbone menggunakan data Kota Surabaya :
 
 ### 12.1 Tiga Kandidat Isu dari Modul 1.2
 
