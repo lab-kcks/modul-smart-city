@@ -478,7 +478,7 @@ Secara visual, Iceberg Model mengilustrasikan bahwa apa yang tampak di permukaan
 
 ### 10.1 Penjelasan Setiap Lapisan
 
-Berikut penerapan Iceberg Model menggunakan data riil **Isu Genangan dan Ketahanan Ruang Terbuka Hijau (RTH) Kota Surabaya** dari lembar kerja Kelompok 7 (Sheet `1.1 Identitas Kota` dan `1.2_Problem_Statement`):
+Berikut penerapan Iceberg Model menggunakan data **Isu Genangan dan Ketahanan Ruang Terbuka Hijau (RTH) Kota Surabaya** :
 
 | Lapisan | Pertanyaan Kunci | Contoh Kasus Riil (Genangan & RTH Kota Surabaya) | Respons Intervensi |
 | :--- | :--- | :--- | :--- |
