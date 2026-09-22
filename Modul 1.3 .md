@@ -694,11 +694,6 @@ Suatu masalah bisa sangat serius dampaknya, tetapi tidak mendesak jika tenggat p
 
 ---
 
-### Kesalahan 8 — Mengabaikan konteks kota
-Menyusun penyebab secara teoretis umum tanpa memperhatikan kondisi nyata, geografi, dan kebijakan dari kota yang menjadi objek studi.
-
----
-
 ## 14. Ringkasan
 
 | Tahap | Metode | Pertanyaan | Hasil |
