@@ -562,12 +562,12 @@ Berikut adalah contoh lengkap penerapan APKL, USG, dan Fishbone menggunakan data
 1. **Isu A — Smart Environment (Pengelolaan Persampahan)**  
    *Kesenjangan kapasitas olah aktif TPA Benowo terhadap volume timbulan sampah kota yang terus meningkat.*  
    - **Problem Statement**: Volume sampah yang masuk ke TPA Benowo (1.536,74 ton/hari pada 2024) sudah hampir menyamai kapasitas olah aktif fasilitas gasifikasi (1.000 ton/hari), menyisakan ±536,74 ton/hari tertimbun di landfill, sementara realisasi pengurangan sampah kota hanya 7,43% dari target resmi 35,29%, dan insiden kebakaran landfill pada Juli 2026 menunjukkan adanya tekanan operasional yang kritis pada pengelolaan akhir sampah kota.  
-   - **Bukti Kunci**: Kepwali Surabaya No. 100.3.3.3/210/436.1.2/2025; Perwali Surabaya No. 64/2018; data timbulan sampah 1.810,81 ton/hari (Sheet 1.1); insiden kebakaran TPA Benowo Blok 1B seluas ±900 m² pada 19 Juli 2026.
+   - **Bukti Kunci**: Kepwali Surabaya No. 100.3.3.3/210/436.1.2/2025; Perwali Surabaya No. 64/2018; data timbulan sampah 1.810,81 ton/hari; insiden kebakaran TPA Benowo Blok 1B seluas ±900 m² pada 19 Juli 2026.
 
 2. **Isu B — Smart Environment & Living (Ketahanan Drainase & RTH)**  
    *Genangan air berulang akibat fasilitas pengendali air yang belum lengkap, di tengah ketiadaan data pemantauan RTH privat.*  
    - **Problem Statement**: Genangan berulang terjadi di berbagai titik Kota Surabaya setiap musim hujan — tujuh titik tercatat pada 5 November 2025, terparah di Tenggilis dan Tanjungsari — akibat fasilitas pengendali air (pompa, pintu air, box culvert) yang belum lengkap, di tengah RTH publik kota sebesar 20,32% yang telah memenuhi syarat minimum UU namun ketersediaan RTH privat (turut disyaratkan UU No. 26/2007 min. 10%) belum tercatat dalam data resmi kota.  
-   - **Bukti Kunci**: Pernyataan resmi Kepala DSDABM Surabaya (November 2025); UU No. 26/2007 Pasal 29; capaian RTH publik 20,32% (Bappeda Surabaya, Sheet 1.1).
+   - **Bukti Kunci**: Pernyataan resmi Kepala DSDABM Surabaya (November 2025); UU No. 26/2007 Pasal 29; capaian RTH publik 20,32% (Bappeda Surabaya).
 
 3. **Isu C — Smart Society & Economy (Kawasan Pesisir & Hunian Layak)**  
    *Kemiskinan nelayan dan status kumuh kawasan pesisir Kenjeran-Bulak di tengah kontras data zero kumuh dan tekanan proyek reklamasi.*  
