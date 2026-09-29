@@ -493,7 +493,7 @@ Tabel pemetaan tanpa justifikasi sama dengan menebak. Setiap status relevansi ha
 
 ---
 
-## 8. Ringkasan
+## 6. Ringkasan
 
 Ringkasan Modul
 
