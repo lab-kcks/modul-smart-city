@@ -575,18 +575,7 @@ Lampiran (data, sumber, tangkapan layar jika ada)
 
 ---
 
-### 6.3 Rubrik Penilaian Luaran
-
-| Komponen | Bobot | Indikator Penilaian |
-| :--- | :---: | :--- |
-| Validasi silang isu | 20% | Minimal dua sumber sekunder yang kredibel dan dikutip lengkap; temuan validasi konsisten atau perbedaan dijelaskan |
-| Matriks pengaruh dan kepentingan | 30% | Minimal delapan aktor; skor didukung alasan; narasi interpretasi relevan dengan isu |
-| Tabel pemetaan pilar | 25% | Pilar utama tepat; justifikasi setiap pilar jelas dan berbasis isu; tidak memaksakan semua pilar relevan |
-| Kualitas laporan keseluruhan | 25% | Sistematika lengkap; argumen konsisten antar-bab; bahasa akademik; sumber dikutip dengan benar |
-
----
-
-### 6.4 Panduan Responsi
+### 6.3 Panduan Responsi
 
 Responsi Modul 1 adalah sesi presentasi dan tanya jawab singkat di akhir rangkaian Modul 1.
 
@@ -607,33 +596,7 @@ Pertanyaan yang sering diajukan pada responsi:
 
 ---
 
-## 7. Keterkaitan Modul 1 dengan Modul Berikutnya
-
-Rangkaian Modul 1 menghasilkan satu isu prioritas yang telah:
-- diidentifikasi berbasis bukti (Modul 1.2);
-- diprioritaskan dan ditelusuri akar masalahnya (Modul 1.3);
-- divalidasi, dipetakan aktornya, dan ditempatkan dalam kerangka Kota Cerdas (Modul 1.4).
-
-Output ini menjadi **landasan** bagi modul-modul berikutnya:
-
-```text
-Modul 1 (Identifikasi dan Analisis Isu)
-         |
-         v
-Modul 2 (Eksplorasi dan Perancangan Solusi Smart City)
-         |
-         v
-Modul 3 (Perencanaan Implementasi dan Evaluasi)
-         |
-         v
-Modul 4 (Penyusunan Policy Brief)
-```
-
-Tanpa landasan yang kuat dari Modul 1, solusi yang diusulkan pada modul berikutnya berisiko tidak kontekstual, tidak berbasis data, atau gagal menjangkau akar masalah yang sesungguhnya.
-
----
-
-## 8. Ringkasan
+## 7. Ringkasan
 
 | Tahap | Metode / Alat | Pertanyaan Utama | Hasil |
 | :--- | :--- | :--- | :--- |
