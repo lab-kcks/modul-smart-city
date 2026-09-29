@@ -18,23 +18,17 @@ Setelah mempelajari materi ini, kita diharapkan mampu:
 
 ## 2. Pendahuluan
 
-Pada Modul 1.3, kita telah memilih satu isu prioritas dari beberapa kandidat isu menggunakan metode APKL dan USG, lalu menelusuri akar masalahnya menggunakan Diagram Fishbone, teknik 5 Whys, serta Iceberg Model.
+ada Modul 1.2, mahasiswa telah mengidentifikasi dan memperdalam isu melalui proses Observe → Explore → Validate serta menyusun problem statement menggunakan pendekatan CER (Claim–Evidence–Reasoning).
 
-Kita kini memiliki satu isu yang telah diprioritaskan dan dipetakan akar masalahnya.
+Pada Modul 1.3, isu kemudian diprioritaskan menggunakan APKL dan USG, serta dianalisis menggunakan metode 5 Whys, Fishbone Diagram, dan Iceberg Model untuk memahami akar masalah.
 
-Namun, ada pertanyaan penting yang belum terjawab:
+Tahap berikutnya adalah memastikan bahwa isu yang telah dianalisis memiliki dasar yang cukup dan dapat ditempatkan dalam konteks Kota Cerdas. Oleh karena itu, Modul 1.4 membahas tiga hal:
 
-> *Apakah isu tersebut benar-benar valid jika dikonfirmasi dari sudut pandang luar? Siapa saja yang terlibat dan memiliki pengaruh terhadapnya? Dan di mana posisinya dalam kerangka Kota Cerdas?*
+Validasi isu, untuk menguji kembali kebenaran dan kekuatan informasi yang digunakan.
+Pemetaan stakeholder, untuk mengetahui pihak yang memiliki pengaruh dan kepentingan terhadap isu.
+Pemetaan pilar Kota Cerdas, untuk menentukan posisi isu dalam kerangka Kota Cerdas.
 
-Tiga pertanyaan itulah yang menjadi fokus Modul 1.4.
-
-Modul ini merupakan **penutup dari rangkaian Modul 1**. Terdapat tiga langkah yang dilakukan:
-
-1. **Validasi silang** — mengonfirmasi keabsahan isu melalui sumber sekunder atau keterangan narasumber.
-2. **Pemetaan stakeholder** — mengidentifikasi aktor-aktor kunci dan memosisikannya dalam matriks pengaruh dan kepentingan.
-3. **Pemetaan pilar** — menempatkan isu dalam kerangka enam pilar Kota Cerdas Indonesia dan menjelaskan keterkaitannya.
-
-Hasil dari ketiga langkah ini disusun menjadi **Laporan Modul 1**, yang merupakan dokumen analisis isu lengkap dari observasi hingga kesiapan intervensi.
+Ketiga analisis tersebut membantu memastikan bahwa isu yang dibawa ke tahap perancangan solusi telah memiliki dasar yang jelas.
 
 ---
 
@@ -499,112 +493,72 @@ Tabel pemetaan tanpa justifikasi sama dengan menebak. Setiap status relevansi ha
 
 ---
 
-## 6. Kegiatan Praktikum dan Responsi Modul 1
+## 8. Ringkasan
 
-### 6.1 Gambaran Umum Kegiatan
+Ringkasan Modul
 
-Modul 1.4 merupakan modul terakhir dalam rangkaian Modul 1. Kegiatan praktikum berfokus pada tiga hal utama:
+Modul 1.4 menyelesaikan tahap analisis isu melalui tiga proses: validasi isu, pemetaan stakeholder, dan pemetaan pilar Kota Cerdas.
 
-1. **Validasi isu**: mengonfirmasi isu prioritas hasil Modul 1.3 ke minimal dua sumber sekunder atau satu narasumber.
-2. **Pemetaan stakeholder**: mengidentifikasi dan memetakan minimal delapan aktor menggunakan Mendelow's Stakeholder Matrix.
-3. **Pemetaan pilar**: menempatkan isu pada satu pilar utama dan pilar-pilar pendukung yang relevan, disertai justifikasi.
+1. Validasi Isu
 
-Seluruh hasil dari Modul 1.1 hingga 1.4 kemudian disusun menjadi **Laporan Modul 1**.
+Validasi digunakan untuk menguji apakah klaim mengenai isu didukung oleh bukti yang memadai.
 
----
+Alur analisis:
 
-### 6.2 Format Luaran
+Klaim → Sumber → Perbandingan → Status Validasi → Evaluasi Problem Statement
 
-#### Luaran 1 — Mendelow's Stakeholder Matrix
+Gunakan minimal 3 sumber sekunder. Bandingkan informasi berdasarkan angka, periode, lokasi, definisi indikator, metode, dan konteks. Hasil validasi dikategorikan menjadi Terkonfirmasi, Sebagian Terkonfirmasi, Belum Terkonfirmasi, atau Bertentangan.
 
-Matriks disusun dalam dua bagian:
+Hasil validasi digunakan untuk menentukan apakah problem statement:
 
-**Bagian A — Tabel Skor Aktor**
+tetap dipertahankan;
+dipersempit;
+diperbaiki; atau
+perlu dirumuskan kembali.
+2. Pemetaan Stakeholder
 
-| No | Nama Aktor | Kategori | Peran | Power (1-5) | Interest (1-5) | Kuadran Mendelow |
-| :---: | :--- | :--- | :--- | :---: | :---: | :--- |
-| 1 | | | | | | |
-| 2 | | | | | | |
-| (minimal 8 aktor) | | | | | | |
+Pemetaan stakeholder digunakan untuk menentukan pihak yang memiliki pengaruh dan kepentingan terhadap isu.
 
-**Bagian B — Narasi Interpretasi**
+Gunakan dua dimensi:
 
-Narasi sepanjang 150-250 kata yang menjelaskan implikasi pemetaan terhadap desain intervensi Kota Cerdas.
+Power → kemampuan memengaruhi keputusan, sumber daya, kebijakan, atau pelaksanaan.
+Interest → tingkat kepentingan atau keterlibatan terhadap isu.
 
-#### Luaran 2 — Tabel Pemetaan Pilar
+Alur analisis:
 
-Tabel enam baris (satu baris per pilar) dengan kolom Relevansi, Status, dan Justifikasi sebagaimana dijelaskan pada Bagian 5.4, disertai narasi ringkas 100-150 kata tentang posisi isu dalam kerangka Kota Cerdas.
+Identifikasi Stakeholder → Nilai Power → Nilai Interest → Tentukan Kuadran → Analisis Implikasi
 
-#### Luaran 3 — Laporan Modul 1
+Gunakan Power–Interest Matrix dengan empat kuadran:
 
-Laporan Modul 1 merupakan dokumen kompilasi dari seluruh hasil kerja Modul 1.1 hingga 1.4. Laporan disusun mengikuti sistematika berikut:
+Kondisi	Kuadran
+Power tinggi, Interest tinggi	Manage Closely
+Power tinggi, Interest rendah	Keep Satisfied
+Power rendah, Interest tinggi	Keep Informed
+Power rendah, Interest rendah	Monitor
 
-```text
-Halaman Judul
-Daftar Isi
+Posisi stakeholder harus didasarkan pada kondisi isu yang dianalisis, bukan hanya jabatan atau status organisasi.
 
-Bab 1 — Pendahuluan
-  1.1 Latar Belakang Kota yang Dipilih
-  1.2 Ruang Lingkup Kajian
+3. Pemetaan Pilar Kota Cerdas
 
-Bab 2 — Identifikasi dan Pendalaman Isu (Modul 1.2)
-  2.1 Tahap Observe dan Explore
-  2.2 Isu Kandidat (Minimal Tiga Isu)
-  2.3 Validasi Evidence (Kerangka CER)
-  2.4 Problem Statement
+Pemetaan pilar digunakan untuk menentukan konteks strategis isu dalam kerangka Kota Cerdas.
 
-Bab 3 — Analisis Akar Masalah dan Prioritas (Modul 1.3)
-  3.1 Penyaringan Isu dengan APKL
-  3.2 Pemeringkatan Isu dengan USG
-  3.3 Diagram Fishbone
-  3.4 5 Whys
-  3.5 Iceberg Model
+Analisis menggunakan enam pilar:
 
-Bab 4 — Validasi, Pemetaan Stakeholder, dan Pemetaan Pilar (Modul 1.4)
-  4.1 Catatan Validasi Silang
-  4.2 Matriks Pengaruh dan Kepentingan
-  4.3 Tabel Pemetaan Pilar
+Smart Governance · Smart Branding · Smart Economy · Smart Society · Smart Environment · Smart Living
 
-Bab 5 — Penutup
-  5.1 Simpulan
-  5.2 Pertanyaan Riset Lanjutan
+Alur penentuan:
 
-Daftar Pustaka
-Lampiran (data, sumber, tangkapan layar jika ada)
-```
+Identifikasi Inti Masalah → Tentukan Fokus Intervensi → Tentukan Pilar Utama → Identifikasi Pilar Pendukung
 
----
+Pilih satu pilar utama berdasarkan fokus intervensi. Pilar pendukung hanya digunakan apabila memiliki hubungan yang jelas dengan isu.
 
-### 6.3 Panduan Responsi
+4. Integrasi Hasil
 
-Responsi Modul 1 adalah sesi presentasi dan tanya jawab singkat di akhir rangkaian Modul 1.
+Ketiga proses harus menghasilkan hubungan analitis yang konsisten:
 
-Pada sesi responsi, setiap kelompok mempresentasikan:
-1. Isu prioritas dan justifikasi pemilihannya (APKL + USG).
-2. Akar masalah yang ditemukan (Fishbone + 5 Whys).
-3. Hasil validasi silang (sumber apa yang digunakan, apakah terkonfirmasi).
-4. Dua atau tiga aktor kunci dari matriks dan alasan penempatan kuadrannya.
-5. Pilar utama dan penjelasan mengapa pilar tersebut dipilih.
+Isu → Bukti → Validasi → Problem Statement → Stakeholder → Pilar Kota Cerdas
 
-Durasi presentasi: 8-10 menit per kelompok, diikuti sesi tanya jawab 5 menit.
-
-Pertanyaan yang sering diajukan pada responsi:
-- *"Mengapa Anda memilih pilar X sebagai pilar utama, bukan pilar Y yang juga relevan?"*
-- *"Apa yang terjadi jika aktor di kuadran Libatkan Aktif menolak intervensi?"*
-- *"Apakah ada data yang Anda temukan yang bertentangan dengan isu yang dipilih? Bagaimana Anda menjelaskannya?"*
-- *"Setelah menyelesaikan seluruh Modul 1, apakah isu prioritas Anda masih sama, atau ada hal yang Anda revisi?"*
-
----
-
-## 7. Ringkasan
-
-| Tahap | Metode / Alat | Pertanyaan Utama | Hasil |
-| :--- | :--- | :--- | :--- |
-| **Validasi** | Triangulasi sumber sekunder / narasumber | *"Apakah isu ini terkonfirmasi dari sudut pandang luar?"* | Catatan validasi silang |
-| **Pemetaan Stakeholder** | Matriks Pengaruh dan Kepentingan | *"Siapa yang terlibat dan bagaimana posisinya?"* | Tabel aktor + narasi strategi keterlibatan |
-| **Pemetaan Pilar** | Kerangka 6 Pilar Kota Cerdas | *"Di mana posisi isu dalam kerangka Kota Cerdas?"* | Tabel pemetaan pilar + narasi domain intervensi |
-| **Luaran Akhir** | Laporan Modul 1 | *"Apakah analisis isu sudah lengkap dan siap menjadi landasan solusi?"* | Laporan Modul 1 yang komprehensif |
-
+Hasil validasi memastikan bahwa isu memiliki dasar bukti. Pemetaan stakeholder menunjukkan pihak yang berpengaruh atau berkepentingan terhadap isu. Pemetaan pilar menentukan konteks Kota Cerdas yang paling relevan.
 > **Inti Modul 1.4:**
 > Mengonfirmasi keabsahan isu dari luar, memahami siapa yang perlu dilibatkan, dan menempatkan isu dalam kerangka Kota Cerdas — agar intervensi yang dirancang memiliki pijakan analisis yang kokoh, kontekstual, dan dapat dipertanggungjawabkan.
 
