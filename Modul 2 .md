@@ -455,4 +455,7 @@ Pemilihan teknologi Smart City dilakukan melalui tiga tahapan yang saling berkai
 3. **Perancangan arsitektur sistem:** menyusun hubungan antara lapisan perangkat, jaringan, platform, dan aplikasi serta menilai kesiapan implementasi.
 
 Keputusan teknologi harus dapat ditelusuri dari kebutuhan sistem hingga rancangan arsitektur. Skor tertinggi tidak otomatis menjadi keputusan akhir apabila alternatif gagal memenuhi kebutuhan wajib atau menghadapi hambatan implementasi yang belum terselesaikan.
-
+
+## AHP Calculator
+https://bpmsg.com/ahp/ahp-calc.php
+
