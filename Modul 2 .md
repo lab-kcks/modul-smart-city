@@ -58,6 +58,23 @@ Kebutuhan nonfungsional harus menggunakan ukuran atau kriteria yang dapat diperi
 
 Contoh: waktu respons dashboard maksimal 3 detik pada kondisi pengujian yang ditentukan. Angka tersebut merupakan ilustrasi target, bukan standar universal.
 
+### Panduan Menulis Kebutuhan Terukur
+
+Kebutuhan yang baik harus terukur dan dapat diverifikasi. Setiap pernyataan kebutuhan sebaiknya mengandung angka, satuan, dan kondisi pengujian yang jelas.
+
+| Kurang tepat | Lebih tepat |
+|---|---|
+| Sistem harus cepat | Waktu respons dashboard ≤ 3 detik pada 100 pengguna bersamaan |
+| Sensor harus akurat | Akurasi pengukuran suhu ± 0,5 °C pada rentang 0–50 °C |
+| Sistem harus andal | Ketersediaan layanan ≥ 99 % per bulan |
+| Data harus aman | Seluruh transmisi data menggunakan enkripsi TLS 1.2 atau lebih tinggi |
+
+Prinsip penulisan:
+- Gunakan angka dan satuan yang spesifik.
+- Sertakan kondisi atau konteks pengukuran.
+- Pastikan dapat diuji atau diverifikasi.
+- Hindari kata subjektif seperti "cepat", "mudah", atau "banyak" tanpa kuantifikasi.
+
 ### C. Kebutuhan dan Batasan Sistem
 
 Kebutuhan menjelaskan hal yang harus dipenuhi oleh sistem, sedangkan batasan menjelaskan kondisi yang membatasi perancangannya.
@@ -122,6 +139,18 @@ Informasi harus diperoleh dari sumber yang dapat diverifikasi, seperti dokumenta
 
 Data hasil pengukuran, spesifikasi produsen, estimasi, dan asumsi harus dibedakan. Informasi yang tidak tersedia tidak boleh digantikan dengan angka rekaan.
 
+### Panduan Membaca Spesifikasi Teknologi
+
+Spesifikasi teknologi diperoleh dari *datasheet*, dokumentasi resmi produsen, atau dokumentasi penyedia layanan. Berikut aspek yang perlu diperhatikan saat membaca spesifikasi:
+
+1. **Identifikasi parameter utama:** Temukan parameter yang relevan dengan kebutuhan sistem, seperti jangkauan, konsumsi daya, kecepatan data, atau harga.
+2. **Perhatikan kondisi pengujian:** Spesifikasi sering berlaku pada kondisi tertentu (suhu, jarak, beban). Pastikan kondisi tersebut sesuai dengan lingkungan operasional yang dirancang.
+3. **Bedakan nilai tipikal dan nilai maksimum:** Nilai tipikal (*typical*) menunjukkan performa umum, sedangkan nilai maksimum (*maximum*) menunjukkan batas kemampuan perangkat.
+4. **Periksa satuan dan skala:** Pastikan satuan seragam saat membandingkan alternatif (misalnya mW vs W, m vs km).
+5. **Catat sumber dan tanggal:** Dokumentasikan URL atau nama dokumen beserta tanggal akses untuk keperluan verifikasi.
+
+Contoh: jika *datasheet* sensor menyatakan jangkauan 10 km pada kondisi *line-of-sight*, nilai tersebut mungkin tidak berlaku di lingkungan perkotaan dengan banyak penghalang.
+
 Hasil survei menjadi dasar evaluasi alternatif menggunakan *Weighted Decision Matrix*.
 
 ---
@@ -159,7 +188,7 @@ $$
 
 dengan $w_i$ sebagai bobot kriteria ke-$i$.
 
-**### Pembobotan Berpasangan**
+### Pembobotan Berpasangan
 
 Pembobotan berpasangan dilakukan dengan membandingkan tingkat kepentingan dua kriteria pada satu waktu. Salah satu pendekatan yang dapat digunakan adalah skala Saaty dalam *Analytic Hierarchy Process* (AHP).
 
@@ -210,7 +239,7 @@ Arah preferensi harus diperhatikan. Untuk kriteria biaya dan konsumsi daya, skor
 
 Skor harus didasarkan pada spesifikasi, bukti teknis, atau asumsi yang dinyatakan secara jelas. Kriteria yang memiliki batas minimum wajib tidak boleh dianggap terpenuhi hanya karena alternatif memperoleh skor total tinggi.
 
-**## 3.4 Perhitungan Skor Tertimbang**
+## 3.4 Perhitungan Skor Tertimbang
 
 Skor total setiap alternatif dihitung dengan mengalikan bobot kriteria dengan skor alternatif pada kriteria tersebut, kemudian menjumlahkan seluruh hasilnya.
 
@@ -227,7 +256,7 @@ dengan:
 
 Alternatif dengan skor tertinggi menjadi kandidat utama apabila memenuhi kebutuhan wajib dan batasan sistem.
 
-**### Contoh Perhitungan**
+### Contoh Perhitungan
 
 Angka berikut bersifat ilustratif.
 
@@ -269,6 +298,9 @@ S_C &= (0{,}40 \times 2) + (0{,}20 \times 5) \\
 $$
 
 Pada contoh ini, Alternatif A memiliki skor tertinggi. Keputusan akhir tetap harus mempertimbangkan kebutuhan wajib, keterbatasan teknis, dan stabilitas hasil penilaian.
+
+![Contoh visualisasi Weighted Decision Matrix](assets/weighted_decision_matrix.jpg)
+
 ## 3.5 Analisis Kompromi
 
 Analisis kompromi (*trade-off analysis*) digunakan untuk memahami pertukaran antara kelebihan dan kekurangan alternatif.
@@ -303,6 +335,8 @@ Arsitektur sistem menggambarkan komponen utama, fungsi setiap komponen, hubungan
 Arsitektur harus mencerminkan keputusan teknologi yang telah ditetapkan dan menunjukkan bagaimana komponen bekerja sama untuk memenuhi kebutuhan sistem.
 
 Modul ini menggunakan arsitektur empat lapis: perangkat, jaringan, platform, dan aplikasi.
+
+![Contoh diagram arsitektur empat lapis Smart City](assets/arsitektur_empat_lapis.jpg)
 
 ## 4.2 Lapisan Arsitektur
 
@@ -375,6 +409,8 @@ Pada sistem pemantauan berbasis IoT, aliran data umumnya mengikuti urutan beriku
 
 Sistem tertentu dapat memiliki komunikasi dua arah, misalnya aplikasi mengirimkan perintah kontrol kepada perangkat. Arah komunikasi tersebut harus sesuai dengan fungsi sistem dan ditunjukkan dalam diagram.
 
+![Contoh aliran data pada sistem pemantauan berbasis IoT](assets/aliran_data_sistem.jpg)
+
 ## 4.4 Notasi Diagram dan Penamaan Komponen
 
 Diagram arsitektur harus menggunakan notasi yang konsisten dan menunjukkan fungsi serta hubungan antarkomponen.
@@ -419,3 +455,4 @@ Pemilihan teknologi Smart City dilakukan melalui tiga tahapan yang saling berkai
 3. **Perancangan arsitektur sistem:** menyusun hubungan antara lapisan perangkat, jaringan, platform, dan aplikasi serta menilai kesiapan implementasi.
 
 Keputusan teknologi harus dapat ditelusuri dari kebutuhan sistem hingga rancangan arsitektur. Skor tertinggi tidak otomatis menjadi keputusan akhir apabila alternatif gagal memenuhi kebutuhan wajib atau menghadapi hambatan implementasi yang belum terselesaikan.
+
