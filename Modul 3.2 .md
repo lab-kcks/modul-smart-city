@@ -188,19 +188,20 @@ Contoh:
 
 Satu jenis pengeluaran dapat memiliki karakteristik berbeda bergantung pada cara pengadaan dan penggunaannya. Oleh karena itu, klasifikasi biaya harus mengikuti fungsi pengeluaran, bukan sekadar nama barang.
 
-***D. Perhitungan Estimasi Biaya**
+**D. Perhitungan Estimasi Biaya**
 
 Perhitungan biaya setiap komponen dilakukan menggunakan rumus:
 
-\[
+$$
 \text{Total Biaya} = \text{Volume} \times \text{Harga Satuan}
-\]
+$$
 
 Total estimasi biaya diperoleh dengan menjumlahkan seluruh komponen biaya:
 
-\[
-\text{Total Estimasi} = \sum_{i=1}^{n} \text{Total Biaya}_i
-\]
+$$
+\text{Total Estimasi} = \sum_{i=1}^{n} \text{Total Biaya}_{i}
+$$
+
 
 Setiap komponen biaya harus mencantumkan:
 - Nama kebutuhan.
