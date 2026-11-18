@@ -331,22 +331,6 @@ KPI harus memenuhi ketentuan berikut:
 
 Dalam praktikum ini, setiap kelompok wajib merumuskan tiga KPI dampak. Ketiganya tidak harus menggunakan satuan yang sama, tetapi harus relevan dengan tujuan solusi.
 
----
-
-## 3. Rangkuman Materi
-
-Modul 3.2 membahas perencanaan penerapan solusi Smart City dari sisi tata kelola, jadwal, biaya, keberlanjutan, dan evaluasi.
-
-- Tata kelola implementasi menentukan pihak yang terlibat serta pembagian tanggung jawab.
-- Regulasi menjadi dasar untuk memastikan rencana implementasi sesuai dengan ketentuan yang berlaku.
-- Roadmap menjelaskan tahapan, jadwal, aktivitas, penanggung jawab, dan target implementasi.
-- Estimasi biaya mencakup pengadaan, operasional, dan pemeliharaan berdasarkan referensi harga yang dapat diverifikasi.
-- Rencana keberlanjutan memastikan solusi dapat dikelola dari aspek teknis, operasional, finansial, dan kelembagaan.
-- KPI digunakan untuk mengukur pencapaian tujuan solusi dengan indikator yang jelas dan dapat diukur.
-
-Seluruh perencanaan harus mengacu pada isu prioritas dan solusi yang telah dipilih pada modul sebelumnya.
-
----
 
 ## 6. Referensi
 
